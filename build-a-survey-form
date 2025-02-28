@@ -54,6 +54,8 @@ label, p {
     font-family: Optima;
 }
 body {
+background-image: url('https://imgur.com/68Q8NB5.png');
+    background-size: cover;
 background-color: #681ace;
  text-align: center; 
 height: 100vh; 
